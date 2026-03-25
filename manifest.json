@@ -1,0 +1,39 @@
+{
+  "short_name": "SA Global",
+  "name": "SA Global - Educational Consultancy | Created By Xapner.com",
+  "description": "SA Global Study Abroad Consultant - Professional Educational Services | Created By Xapner.com",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo-200.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0A1E3E",
+  "background_color": "#ffffff",
+  "categories": ["education", "consulting", "web-development"],
+  "lang": "en",
+  "dir": "ltr"
+}
